@@ -1,0 +1,135 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Frontend dependencies and build output
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Local databases, exports, and credentials
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.sql.gz
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local tool caches
+Microsoft/
+
+# Coordinator-only blind-test metadata
+reports/blind_test/preparation_v1/author_coverage_DO_NOT_SEND_TO_REVIEWERS.csv
+
+# Preserved nested Git metadata backups
+**/.git_old/
+**/.git_backup/
+
+# Experimental ML model artifacts
+models/grievance_classifier_model_d.joblib
+models/grievance_classifier_otp_address_candidate.joblib
+models/grievance_classifier_frozen_tfidf.joblib
+
+# Internal blind-test annotation files
+reports/blind_test/preparation_v1/*.csv
+
+# Experimental evaluation reports
+reports/model_d/
+reports/otp_address_candidate/
+reports/frozen_tfidf_comparison/
+
+
+# Internal development instructions
+Agents.md
+frontend/AGENTS.md
+frontend/README.md
+
+# Database diagnostic scripts - use real configured database
+backend/app/database/test_activity.py
+backend/app/database/test_connection.py
+backend/app/database/test_model.py
+
+# Unnecessary placeholder files
+dataset/.gitkeep
+models/.gitkeep
+
+# Development-only ML results and experimental datasets
+dataset/validation_results.csv
+dataset/improved_validation_results.csv
+dataset/model_c_validation_results.csv
+dataset/intent_training.csv
+dataset/model_d_training_v1.csv
+dataset/otp_address_training.csv
+dataset/otp_address_holdout.csv
+dataset/otp_address_evaluation_results.csv
+
+# Internal evaluation and demo diagnostics
+reports/demo_readiness_2026_11_14/
+
+# Experimental ML scripts
+src/create_intent_examples.py
+src/evaluate_otp_holdout.py
+src/compare_frozen_tfidf.py
+src/train_model_d.py
+src/test_model_d.py
+src/train_otp_address_candidate.py
+
+
+# Unreviewed development datasets and notebooks
+dataset/manual_validation.csv
+notebooks/01_exploratory_data_analysis.ipynb
+notebooks/.gitkeep
+
+# Internal blind-test documentation
+reports/blind_test/*.md
+
+# Unreviewed development and comparison scripts
+src/analyze_errors.py
+src/compare_models.py
+src/compare_models_v3.py
+src/create_validation_dataset.py
+src/department_router.py
+src/evaluate_validation.py
+src/predict.py
+src/test_confidence.py
+src/test_new_complaints.py
+src/test_setup.py
+src/tfidf_vectorization.py
+src/train_model.py
+src/config.py
+
+# Internal blind-test preparation documentation
+reports/blind_test/preparation_v1/*.md

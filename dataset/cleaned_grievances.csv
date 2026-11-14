@@ -1,0 +1,526 @@
+grievance_id,complaint_text,category,priority,department,status
+GRV-0111,The OTP authentication process is not completing.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0420,"Hello, There is a spelling mistake in my name. Kindly help me resolve it.",Data Correction,Low,Enrolment & Update Division,Pending
+GRV-0566,I am facing an issue. How can I retrieve my Aadhaar number? Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0078,Please help me. I have been waiting for my address correction. Kindly help me resolve it.,Aadhaar Update,Low,Enrolment & Update Division,In Progress
+GRV-0182,I would like to report that I cannot verify my identity through the system. Please look into this issue.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0285,I would like to report that I need help with my new Aadhaar enrolment. Please provide a solution.,Enrolment,Low,Enrolment & Update Division,In Progress
+GRV-0011,I am facing an issue. I received an error while submitting an update request.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0470,I am experiencing a problem because My date of birth is showing incorrect information.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0079,I am facing an issue. I submitted an update request but it was rejected. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0350,I am facing an issue. The website is not loading properly. Please provide a solution.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0056,I would like to report that The update centre is unable to process my request. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0119,I am facing an issue. I am unable to complete biometric authentication. Please provide a solution.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0110,I am experiencing a problem because The verification process fails every time. Kindly check this request.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0589,I am facing an issue. How do I check my enrolment application status? Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0370,I need support because I am experiencing repeated technical problems on the portal. Please provide a solution.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0235,I would like to report that My new enrolment request has not been processed. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0031,"Hello, The update centre is unable to process my request. I need assistance with this problem.",Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0213,"Hello, I am unable to book an Aadhaar enrolment appointment. Please look into this issue.",Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0185,Please help me. The verification process fails every time.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0087,"Hello, My address update request is still pending. Kindly check this request.",Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0003,"Hello, My address update request is still pending. Please provide a solution.",Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0588,I need support because How do I check my enrolment application status? Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0536,I am experiencing a problem because I need information about the Aadhaar update process. Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0597,What documents are required for an address update? Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0369,I am facing an issue. The portal displays an internal server error. Kindly check this request.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0540,I am facing an issue. I want to understand the authentication process. Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0073,I need assistance. My address update request is still pending.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0136,I cannot verify my identity through the system. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0557,What documents are required for an address update? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0438,I am experiencing a problem because My gender information is displayed incorrectly.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0596,I need assistance. I want to know how to check my update status. I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0164,My identity verification is not working. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0083,Please help me. My address update request is still pending. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0258,Please help me. I cannot find an available enrolment appointment. Please provide a solution.,Enrolment,Low,Enrolment & Update Division,In Progress
+GRV-0193,I am facing an issue. I am facing repeated authentication failures. Kindly help me resolve it.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0454,I am experiencing a problem because My name is incorrectly displayed in my records. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0133,I need support because My authentication request shows an error. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0516,I need support because How can I download my Aadhaar document? Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0442,I need support because I noticed an error in my recorded date of birth. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0276,I am experiencing a problem because The enrolment centre is not accepting my application. Please provide a solution.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0365,I cannot access the online service. Kindly check this request.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0030,I need assistance. My address update request is still pending. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0507,Please help me. I need information about the Aadhaar update process. Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0571,I am facing an issue. I want to know how to check my update status.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0025,I am experiencing a problem because I want to update my registered email address. Kindly check this request.,Aadhaar Update,Low,Enrolment & Update Division,In Progress
+GRV-0183,I would like to report that My identity verification is not working. Kindly help me resolve it.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0474,I need assistance. My personal details are showing incorrect information. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0105,I am experiencing a problem because I am unable to complete biometric authentication.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0064,I am experiencing a problem because I submitted an update request but it was rejected. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0491,I need support because My date of birth is showing incorrect information. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0246,My enrolment application is still pending. Please provide a solution.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0249,I am facing an issue. My enrolment application is still pending. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0102,I am experiencing a problem because The authentication system is repeatedly rejecting my request.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0556,I am experiencing a problem because Please provide information about Aadhaar services. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0592,I am facing an issue. I need information about the Aadhaar update process. Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0357,The website keeps showing a technical error. Please look into this issue.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0210,Please help me. The enrolment centre could not complete my request. Please provide a solution.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0166,Please help me. I am unable to complete biometric authentication. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0138,I would like to report that The verification process fails every time. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0196,I am facing an issue. I cannot verify my identity through the system. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0077,I would like to report that I received an error while submitting an update request. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0177,I am facing an issue. The verification process fails every time. Please provide a solution.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0330,"Hello, I am experiencing repeated technical problems on the portal. I need assistance with this problem.",Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0537,Where can I get assistance regarding Aadhaar services? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0549,I would like to report that How can I retrieve my Aadhaar number? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0071,I am unable to update my registered mobile number. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0562,Please help me. I want to understand the authentication process. Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0590,I need assistance. I need information about the Aadhaar update process. Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0082,I am facing an issue. I cannot change my date of birth in my records. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0317,Please help me. The website keeps showing a technical error.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0305,I would like to report that I am experiencing repeated technical problems on the portal. Please provide a solution.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0424,I need assistance. I need assistance correcting an incorrect name entry. Kindly check this request.,Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0375,I am experiencing a problem because The service page is not opening. Please look into this issue.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0430,I am experiencing a problem because My personal details are showing incorrect information. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0538,I would like to report that What documents are required for an address update? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0313,I am experiencing a problem because The service page is not opening. Kindly help me resolve it.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0239,I need help with my new Aadhaar enrolment. Kindly check this request.,Enrolment,Low,Enrolment & Update Division,Resolved
+GRV-0560,I am experiencing a problem because What documents are required for an address update? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0433,"Hello, My demographic details do not match my submitted information. Kindly help me resolve it.",Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0427,Please help me. I noticed an error in my recorded date of birth. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0599,How can I retrieve my Aadhaar number? Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0362,I am experiencing a problem because The application crashes whenever I open it. I need assistance with this problem.,Technical Issue,High,Technology Management Division,In Progress
+GRV-0074,Please help me. My address update request is still pending. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0040,I want to update my registered email address.,Aadhaar Update,Low,Enrolment & Update Division,In Progress
+GRV-0156,Authentication is unavailable when I try to use the service.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0219,"Hello, My enrolment appointment was cancelled. Kindly check this request.",Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0211,I need support because My enrolment appointment was cancelled. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0236,I am facing an issue. My enrolment appointment was cancelled. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0547,I need assistance. I want to know how to check my update status. Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0260,I am experiencing a problem because My enrolment appointment was cancelled. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0281,"Hello, My new enrolment request has not been processed. I need assistance with this problem.",Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0229,I cannot find an available enrolment appointment. Kindly check this request.,Enrolment,Low,Enrolment & Update Division,In Progress
+GRV-0012,"Hello, I want to update my registered email address. I need assistance with this problem.",Aadhaar Update,Low,Enrolment & Update Division,Pending
+GRV-0413,I need assistance. My personal details are showing incorrect information. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0084,I need support because I submitted an update request but it was rejected. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0091,I am experiencing a problem because My address update request is still pending. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0209,I am experiencing a problem because I am facing difficulties during the enrolment process. Please provide a solution.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0539,I am experiencing a problem because Where can I find my nearest enrolment centre? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0336,I need assistance. I am experiencing repeated technical problems on the portal.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0080,My address update request is still pending. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0435,I am experiencing a problem because There is a spelling mistake in my name.,Data Correction,Low,Enrolment & Update Division,Pending
+GRV-0141,I am facing an issue. My identity verification is not working. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0282,I am facing an issue. The enrolment centre could not complete my request. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0269,I am facing an issue. I cannot find an available enrolment appointment. Please look into this issue.,Enrolment,Low,Enrolment & Update Division,Resolved
+GRV-0415,I need assistance. The address displayed in my record is incorrect. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0200,I am facing an issue. The authentication system is repeatedly rejecting my request.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0465,I would like to report that My demographic information contains an error.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0576,Please help me. Please provide information about Aadhaar services. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0585,I want to know how to check my update status. I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0372,I am experiencing repeated technical problems on the portal.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0400,The website stopped working during my request. I need assistance with this problem.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0341,I am experiencing a problem because The application crashes whenever I open it. Kindly help me resolve it.,Technical Issue,High,Technology Management Division,In Progress
+GRV-0149,I am experiencing a problem because My Aadhaar authentication request keeps failing. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0495,I would like to report that There is a spelling mistake in my name. Please provide a solution.,Data Correction,Low,Enrolment & Update Division,Pending
+GRV-0440,I need assistance. The address displayed in my record is incorrect. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0146,"Hello, My identity verification is not working. I need assistance with this problem.",Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0010,"Hello, The update centre is unable to process my request. Kindly help me resolve it.",Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0376,Please help me. I am unable to submit the online form because of an error. Please provide a solution.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0524,"Hello, How do I check my enrolment application status? Kindly help me resolve it.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0189,I am facing an issue. My identity verification is not working. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0132,Please help me. Authentication is unavailable when I try to use the service. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0573,I need support because How can I retrieve my Aadhaar number? Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0299,I need assistance. The enrolment centre is not accepting my application. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0587,"Hello, How can I retrieve my Aadhaar number? Kindly help me resolve it.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0447,"Hello, I noticed an error in my recorded date of birth.",Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0085,My mobile number update is not getting processed. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0593,I need assistance. What documents are required for an address update? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0178,I need support because I cannot verify my identity through the system. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0154,I need assistance. My authentication request shows an error. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0453,My date of birth is showing incorrect information. I need assistance with this problem.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0197,I am facing an issue. The verification process fails every time.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0076,"Hello, I am unable to update my registered mobile number. I need assistance with this problem.",Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0093,I need assistance. My mobile number update is not getting processed. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0297,I need assistance. My enrolment application is still pending. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0069,Please help me. My mobile number update is not getting processed.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0016,"Hello, I cannot change my date of birth in my records. I need assistance with this problem.",Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0205,"Hello, My enrolment appointment was cancelled.",Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0159,I need support because My identity verification is not working. Kindly help me resolve it.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0089,I would like to report that I cannot change my date of birth in my records. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0498,I would like to report that I need assistance correcting an incorrect name entry. I need assistance with this problem.,Data Correction,Low,Enrolment & Update Division,Resolved
+GRV-0118,I would like to report that I am unable to complete biometric authentication. Please provide a solution.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0383,I would like to report that The service page is not opening.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0406,I need assistance. I need assistance correcting an incorrect name entry. Kindly help me resolve it.,Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0034,I am facing an issue. My address update request is still pending. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0001,My address update request is still pending. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0594,I am experiencing a problem because Where can I get assistance regarding Aadhaar services? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0532,I would like to report that Please provide information about Aadhaar services.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0354,"Hello, The online portal is responding very slowly. Kindly help me resolve it.",Technical Issue,Low,Technology Management Division,Resolved
+GRV-0333,The website is not loading properly. I need assistance with this problem.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0535,I am experiencing a problem because Where can I find my nearest enrolment centre? Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0245,Please help me. The enrolment centre could not complete my request. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0023,I am facing an issue. The update centre is unable to process my request.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0441,I need support because My demographic information contains an error. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0117,Please help me. My Aadhaar authentication request keeps failing. Kindly help me resolve it.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0090,I need support because My mobile number update is not getting processed. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0366,I need support because The website keeps showing a technical error. Kindly check this request.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0212,I am facing an issue. I need help with my new Aadhaar enrolment. Please provide a solution.,Enrolment,Low,Enrolment & Update Division,Resolved
+GRV-0019,I need assistance. My address update request is still pending. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0408,I need assistance correcting an incorrect name entry. Kindly check this request.,Data Correction,Low,Enrolment & Update Division,Resolved
+GRV-0321,Please help me. The portal displays an internal server error. Please provide a solution.,Technical Issue,High,Technology Management Division,Pending
+GRV-0145,I am experiencing a problem because My identity verification is not working. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0290,I am facing an issue. I cannot find an available enrolment appointment. Kindly check this request.,Enrolment,Low,Enrolment & Update Division,Resolved
+GRV-0275,I need assistance. I need help with my new Aadhaar enrolment. Please look into this issue.,Enrolment,Low,Enrolment & Update Division,Pending
+GRV-0542,I would like to report that Where can I get assistance regarding Aadhaar services? Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0361,"Hello, The website is not loading properly. Kindly check this request.",Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0251,I am experiencing a problem because My new enrolment request has not been processed. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0288,I need support because I am unable to book an Aadhaar enrolment appointment. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0529,I need support because I want to understand the authentication process. I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0401,I would like to report that My gender information is displayed incorrectly. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0168,"Hello, Authentication is unavailable when I try to use the service. Please look into this issue.",Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0055,Please help me. The update centre is unable to process my request.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0494,I am facing an issue. My demographic information contains an error. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0047,I need support because I have been waiting for my address correction. Please provide a solution.,Aadhaar Update,Low,Enrolment & Update Division,In Progress
+GRV-0094,I am experiencing a problem because My demographic update request is taking too long. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0265,I need support because The enrolment centre is not accepting my application. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0109,I am facing an issue. I am unable to complete biometric authentication. Kindly help me resolve it.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0273,I am facing an issue. I am unable to book an Aadhaar enrolment appointment. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0600,Please help me. I need information about the Aadhaar update process.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0480,I noticed an error in my recorded date of birth. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0437,I am experiencing a problem because My name is incorrectly displayed in my records. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0384,Please help me. The portal displays an internal server error. I need assistance with this problem.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0381,I am facing an issue. I am unable to submit the online form because of an error.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0463,I am experiencing a problem because My demographic details do not match my submitted information. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0395,I am facing an issue. The service page is not opening. Kindly help me resolve it.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0266,I am experiencing a problem because The enrolment centre could not complete my request. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0481,I would like to report that My gender information is displayed incorrectly. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0518,I am facing an issue. Where can I get assistance regarding Aadhaar services? I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0070,My demographic update request is taking too long. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0404,I need assistance. My demographic details do not match my submitted information.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0473,I am facing an issue. My demographic information contains an error. I need assistance with this problem.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0351,"Hello, The online portal is responding very slowly. Please provide a solution.",Technical Issue,Low,Technology Management Division,Resolved
+GRV-0510,"Hello, How can I retrieve my Aadhaar number? Please provide a solution.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0150,I am facing an issue. The OTP authentication process is not completing. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0125,I would like to report that Authentication is unavailable when I try to use the service. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0429,I need support because I need assistance correcting an incorrect name entry. I need assistance with this problem.,Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0466,I am facing an issue. The address displayed in my record is incorrect.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0186,I need support because My authentication request shows an error. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0228,I am facing an issue. The enrolment process stopped unexpectedly.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0292,I am facing an issue. I am unable to book an Aadhaar enrolment appointment. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0248,I need assistance. The enrolment centre is not accepting my application. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0291,"Hello, My new enrolment request has not been processed. Kindly check this request.",Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0250,Please help me. My enrolment appointment was cancelled. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0552,"Hello, I need information about the Aadhaar update process. I need assistance with this problem.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0553,How can I retrieve my Aadhaar number? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0551,I need support because How can I retrieve my Aadhaar number?,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0115,I am experiencing a problem because I am unable to complete biometric authentication. Please provide a solution.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0204,I need assistance. The enrolment process stopped unexpectedly.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0142,I am facing an issue. My identity verification is not working. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0339,I am experiencing a problem because I am experiencing repeated technical problems on the portal.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0008,I would like to report that The update centre is unable to process my request. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0522,I would like to report that I need information about the Aadhaar update process. I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0020,I need assistance. I cannot change my date of birth in my records. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0173,I am experiencing a problem because The OTP authentication process is not completing. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0452,"Hello, There is a spelling mistake in my name. Please provide a solution.",Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0057,I want to update my registered email address. Kindly check this request.,Aadhaar Update,Low,Enrolment & Update Division,Resolved
+GRV-0302,I would like to report that The service page is not opening. Kindly check this request.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0337,I would like to report that The website keeps showing a technical error. I need assistance with this problem.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0451,Please help me. The address displayed in my record is incorrect. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0323,I am facing an issue. The website is not loading properly. Please look into this issue.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0311,I am experiencing a problem because The website stopped working during my request. Please provide a solution.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0050,Please help me. I cannot change my date of birth in my records.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0345,"Hello, The service page is not opening.",Technical Issue,Medium,Technology Management Division,Pending
+GRV-0026,I am facing an issue. I submitted an update request but it was rejected. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0443,My date of birth is showing incorrect information. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0221,Please help me. I am facing difficulties during the enrolment process. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0484,I need assistance. My date of birth is showing incorrect information. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0541,"Hello, Please provide information about Aadhaar services. Please look into this issue.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0043,"Hello, I want to update my registered email address. Please provide a solution.",Aadhaar Update,Low,Enrolment & Update Division,Pending
+GRV-0417,I would like to report that My personal details are showing incorrect information.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0262,I would like to report that I am facing difficulties during the enrolment process.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0409,"Hello, The address displayed in my record is incorrect. Kindly help me resolve it.",Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0278,I need support because I cannot find an available enrolment appointment. Kindly check this request.,Enrolment,Low,Enrolment & Update Division,In Progress
+GRV-0570,I am experiencing a problem because Please provide information about Aadhaar services. I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0382,I would like to report that The website is not loading properly. Please look into this issue.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0155,Authentication is unavailable when I try to use the service. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0127,"Hello, The authentication system is repeatedly rejecting my request. Kindly help me resolve it.",Authentication,High,Authentication and Verification Division,Resolved
+GRV-0310,I need support because I am unable to submit the online form because of an error. Kindly help me resolve it.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0446,I am experiencing a problem because My gender information is displayed incorrectly. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0175,"Hello, I cannot verify my identity through the system. I need assistance with this problem.",Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0032,I need support because I received an error while submitting an update request. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0114,I am experiencing a problem because The OTP authentication process is not completing. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0024,I would like to report that I received an error while submitting an update request. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0174,I would like to report that I am unable to complete biometric authentication.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0558,Please help me. Where can I find my nearest enrolment centre?,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0067,I am facing an issue. I want to update my registered email address. I need assistance with this problem.,Aadhaar Update,Low,Enrolment & Update Division,Resolved
+GRV-0322,I would like to report that The application crashes whenever I open it. Please look into this issue.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0223,I am facing an issue. My new enrolment request has not been processed. Please provide a solution.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0018,Please help me. I have been waiting for my address correction. Kindly check this request.,Aadhaar Update,Low,Enrolment & Update Division,In Progress
+GRV-0300,I would like to report that I need help with my new Aadhaar enrolment.,Enrolment,Low,Enrolment & Update Division,In Progress
+GRV-0256,I need support because I am facing difficulties during the enrolment process. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0306,I need support because The portal displays an internal server error. Kindly check this request.,Technical Issue,High,Technology Management Division,In Progress
+GRV-0528,Please help me. I need information about the Aadhaar update process. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0272,My enrolment application is still pending.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0181,I am experiencing a problem because I cannot verify my identity through the system. Kindly help me resolve it.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0332,I am facing an issue. The website stopped working during my request. I need assistance with this problem.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0329,I need support because The service page is not opening. Kindly help me resolve it.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0312,I am experiencing a problem because I cannot access the online service. Kindly check this request.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0006,I am experiencing a problem because My demographic update request is taking too long. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0046,I am facing an issue. I cannot change my date of birth in my records. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0399,I am experiencing a problem because The portal displays an internal server error. I need assistance with this problem.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0577,Please help me. I want to understand the authentication process. Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0469,I would like to report that I noticed an error in my recorded date of birth. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0017,I would like to report that I want to update my registered email address. Please look into this issue.,Aadhaar Update,Low,Enrolment & Update Division,In Progress
+GRV-0049,I have been waiting for my address correction. Please provide a solution.,Aadhaar Update,Low,Enrolment & Update Division,Resolved
+GRV-0580,I need assistance. How can I download my Aadhaar document? I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0004,I am unable to update my registered mobile number.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0487,I need support because There is a spelling mistake in my name. Please provide a solution.,Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0439,My gender information is displayed incorrectly. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0363,I need assistance. The online portal is responding very slowly. Kindly help me resolve it.,Technical Issue,Low,Technology Management Division,In Progress
+GRV-0434,I am facing an issue. There is a spelling mistake in my name. I need assistance with this problem.,Data Correction,Low,Enrolment & Update Division,Resolved
+GRV-0303,I am experiencing a problem because The website keeps showing a technical error. Kindly check this request.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0226,I need support because My enrolment application is still pending. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0027,I am facing an issue. My demographic update request is taking too long. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0264,I am experiencing a problem because My new enrolment request has not been processed. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0051,Please help me. I am unable to update my registered mobile number.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0230,The enrolment centre could not complete my request. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0038,Please help me. My mobile number update is not getting processed. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0158,I am facing an issue. My Aadhaar authentication request keeps failing. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0238,I am facing an issue. The enrolment process stopped unexpectedly. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0575,I need assistance. How can I retrieve my Aadhaar number?,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0176,I need assistance. I cannot verify my identity through the system. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0515,I am experiencing a problem because Please provide information about Aadhaar services. Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0358,I would like to report that The website keeps showing a technical error. Kindly help me resolve it.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0195,I need assistance. The verification process fails every time. Please look into this issue.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0504,I need assistance. Please provide information about Aadhaar services. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0579,"Hello, How do I check my enrolment application status? Kindly check this request.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0512,I would like to report that Please provide information about Aadhaar services. Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0068,I need support because My demographic update request is taking too long. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0320,I need assistance. The application crashes whenever I open it. Please provide a solution.,Technical Issue,High,Technology Management Division,Pending
+GRV-0169,I am unable to complete biometric authentication. Kindly help me resolve it.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0368,"Hello, The application crashes whenever I open it. Kindly help me resolve it.",Technical Issue,High,Technology Management Division,In Progress
+GRV-0163,I am unable to complete biometric authentication.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0194,Please help me. I am unable to complete biometric authentication. Kindly help me resolve it.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0153,I would like to report that My authentication request shows an error. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0502,I need support because Where can I find my nearest enrolment centre? I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0347,I need assistance. The online portal is responding very slowly. Please provide a solution.,Technical Issue,Low,Technology Management Division,Pending
+GRV-0486,"Hello, My gender information is displayed incorrectly.",Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0334,"Hello, I am unable to submit the online form because of an error. I need assistance with this problem.",Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0104,I am facing an issue. My identity verification is not working. Please look into this issue.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0391,"Hello, I cannot access the online service. Please look into this issue.",Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0075,Please help me. I received an error while submitting an update request. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0423,I need assistance. There is a spelling mistake in my name. Please look into this issue.,Data Correction,Low,Enrolment & Update Division,Resolved
+GRV-0578,"Hello, How can I download my Aadhaar document? I need assistance with this problem.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0120,I would like to report that My authentication request shows an error. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0397,I need support because The website keeps showing a technical error. I need assistance with this problem.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0410,I am experiencing a problem because My demographic details do not match my submitted information. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0482,I need assistance correcting an incorrect name entry. Please provide a solution.,Data Correction,Low,Enrolment & Update Division,Pending
+GRV-0208,"Hello, My enrolment application is still pending. Please look into this issue.",Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0342,I am experiencing a problem because I am unable to submit the online form because of an error. Kindly check this request.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0009,I would like to report that I cannot change my date of birth in my records.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0378,I am experiencing a problem because The website is not loading properly.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0037,I need assistance. My mobile number update is not getting processed. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0140,I need support because The authentication system is repeatedly rejecting my request. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0254,I am facing an issue. I am unable to book an Aadhaar enrolment appointment. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0543,I need assistance. I need information about the Aadhaar update process. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0060,I need support because I cannot change my date of birth in my records. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0364,"Hello, The online portal is responding very slowly.",Technical Issue,Low,Technology Management Division,Pending
+GRV-0355,I am experiencing a problem because The application crashes whenever I open it. Please provide a solution.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0263,I need support because The enrolment centre is not accepting my application.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0526,I am experiencing a problem because How can I retrieve my Aadhaar number? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0298,I would like to report that My enrolment application is still pending.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0151,Please help me. The verification process fails every time. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0267,I am experiencing a problem because The enrolment process stopped unexpectedly. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0531,I need support because I want to understand the authentication process. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0039,I submitted an update request but it was rejected. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0308,I am facing an issue. The website is not loading properly. I need assistance with this problem.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0199,I am facing repeated authentication failures. Kindly check this request.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0356,I am experiencing repeated technical problems on the portal. Please provide a solution.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0147,I need support because The OTP authentication process is not completing. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0471,I need assistance. I need assistance correcting an incorrect name entry. Please provide a solution.,Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0533,I need support because How can I retrieve my Aadhaar number? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0148,I am experiencing a problem because My identity verification is not working. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0421,My demographic details do not match my submitted information. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0349,I would like to report that I am unable to submit the online form because of an error. Kindly check this request.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0326,I would like to report that The application crashes whenever I open it.,Technical Issue,High,Technology Management Division,Pending
+GRV-0514,I am facing an issue. Please provide information about Aadhaar services. Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0124,I am facing an issue. I am facing repeated authentication failures. Please look into this issue.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0503,I would like to report that I want to understand the authentication process. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0097,I need assistance. My demographic update request is taking too long. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0144,"Hello, The OTP authentication process is not completing. Please look into this issue.",Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0240,I am experiencing a problem because My enrolment appointment was cancelled.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0426,I need support because My gender information is displayed incorrectly. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0098,I am facing an issue. I am unable to update my registered mobile number. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0325,I need assistance. The website is not loading properly.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0294,I am facing an issue. The enrolment centre is not accepting my application. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0478,I would like to report that My personal details are showing incorrect information. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0123,I am experiencing a problem because I am facing repeated authentication failures. Please provide a solution.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0184,I am facing an issue. I am facing repeated authentication failures. Please provide a solution.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0324,I am facing an issue. The website stopped working during my request. Please look into this issue.,Technical Issue,High,Technology Management Division,Pending
+GRV-0247,Please help me. The enrolment centre is not accepting my application.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0513,"Hello, How can I download my Aadhaar document?",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0458,I would like to report that My demographic details do not match my submitted information. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0479,There is a spelling mistake in my name. Please look into this issue.,Data Correction,Low,Enrolment & Update Division,Resolved
+GRV-0500,I need support because My personal details are showing incorrect information. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0530,How do I check my enrolment application status?,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0389,Please help me. I cannot access the online service.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0126,Please help me. I cannot verify my identity through the system. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0582,I would like to report that How can I retrieve my Aadhaar number? Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0224,I am facing an issue. The enrolment centre could not complete my request. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0343,I am experiencing a problem because The online portal is responding very slowly. Kindly help me resolve it.,Technical Issue,Low,Technology Management Division,Resolved
+GRV-0054,I need support because I submitted an update request but it was rejected. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0220,Please help me. My enrolment application is still pending. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0130,My Aadhaar authentication request keeps failing. Please look into this issue.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0544,I am experiencing a problem because I want to understand the authentication process. Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0394,I need support because I cannot access the online service.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0546,I need support because I need information about the Aadhaar update process. Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0396,I would like to report that The website is not loading properly. Please provide a solution.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0567,Please help me. How can I retrieve my Aadhaar number? Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0403,I would like to report that My date of birth is showing incorrect information. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0387,"Hello, The portal displays an internal server error. Please provide a solution.",Technical Issue,High,Technology Management Division,Resolved
+GRV-0581,I need support because How do I check my enrolment application status? Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0501,"Hello, Where can I get assistance regarding Aadhaar services? Please look into this issue.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0483,I would like to report that I noticed an error in my recorded date of birth. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0416,"Hello, My demographic details do not match my submitted information. Kindly check this request.",Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0113,I am experiencing a problem because Authentication is unavailable when I try to use the service. Kindly help me resolve it.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0180,I am facing an issue. I am unable to complete biometric authentication. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0468,I would like to report that My personal details are showing incorrect information. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0450,I am experiencing a problem because My demographic information contains an error.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0374,I would like to report that The website keeps showing a technical error.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0152,I am experiencing a problem because I am facing repeated authentication failures. I need assistance with this problem.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0583,"Hello, How can I download my Aadhaar document? Kindly check this request.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0234,I would like to report that The enrolment process stopped unexpectedly. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0307,"Hello, I am unable to submit the online form because of an error. Please look into this issue.",Technical Issue,Medium,Technology Management Division,Pending
+GRV-0550,I need support because I want to understand the authentication process. Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0165,I need assistance. My identity verification is not working. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0318,Please help me. The portal displays an internal server error. Kindly check this request.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0137,I need support because I am unable to complete biometric authentication. Please look into this issue.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0198,Please help me. I am facing repeated authentication failures. Kindly help me resolve it.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0569,I am facing an issue. I want to understand the authentication process. Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0259,I am experiencing a problem because I cannot find an available enrolment appointment.,Enrolment,Low,Enrolment & Update Division,In Progress
+GRV-0121,I need assistance. I am facing repeated authentication failures. Please look into this issue.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0377,"Hello, The online portal is responding very slowly. I need assistance with this problem.",Technical Issue,Low,Technology Management Division,Resolved
+GRV-0568,I would like to report that How do I check my enrolment application status? I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0457,I need assistance. The address displayed in my record is incorrect.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0348,I would like to report that I am experiencing repeated technical problems on the portal. Kindly check this request.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0128,I would like to report that Authentication is unavailable when I try to use the service.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0286,My enrolment application is still pending. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0108,I am experiencing a problem because My identity verification is not working. Kindly help me resolve it.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0445,I am facing an issue. My gender information is displayed incorrectly.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0134,The authentication system is repeatedly rejecting my request.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0496,Please help me. My date of birth is showing incorrect information. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0045,I am experiencing a problem because My mobile number update is not getting processed. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0170,I am experiencing a problem because My authentication request shows an error. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0066,The update centre is unable to process my request. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0284,I need support because I need help with my new Aadhaar enrolment.,Enrolment,Low,Enrolment & Update Division,Pending
+GRV-0086,"Hello, My mobile number update is not getting processed. Please look into this issue.",Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0243,I need assistance. I am facing difficulties during the enrolment process. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0160,I am facing an issue. My authentication request shows an error. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0029,I need support because I submitted an update request but it was rejected.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0171,Please help me. I am unable to complete biometric authentication.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0237,I am facing difficulties during the enrolment process. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0464,My demographic information contains an error. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0497,I noticed an error in my recorded date of birth. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0222,I need assistance. My enrolment application is still pending.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0545,How can I download my Aadhaar document? Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0096,My demographic update request is taking too long. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0052,"Hello, I have been waiting for my address correction. Please provide a solution.",Aadhaar Update,Low,Enrolment & Update Division,Pending
+GRV-0241,I would like to report that I am facing difficulties during the enrolment process. Please provide a solution.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0352,I need assistance. The application crashes whenever I open it. Kindly check this request.,Technical Issue,High,Technology Management Division,In Progress
+GRV-0517,I am facing an issue. How can I retrieve my Aadhaar number? I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0179,I am facing an issue. Authentication is unavailable when I try to use the service. Kindly help me resolve it.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0461,I am facing an issue. My name is incorrectly displayed in my records. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0527,I need assistance. What documents are required for an address update? Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0042,"Hello, I received an error while submitting an update request.",Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0555,I need support because Please provide information about Aadhaar services. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0523,"Hello, I need information about the Aadhaar update process. Kindly help me resolve it.",General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0207,I need assistance. I am unable to book an Aadhaar enrolment appointment. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0283,I need support because My enrolment application is still pending. Kindly help me resolve it.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0359,I need assistance. I cannot access the online service. Please provide a solution.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0398,I would like to report that The website is not loading properly. Kindly help me resolve it.,Technical Issue,Medium,Technology Management Division,Pending
+GRV-0255,I need support because The enrolment centre could not complete my request. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0005,I cannot change my date of birth in my records. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0257,I am experiencing a problem because I am facing difficulties during the enrolment process. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0564,I would like to report that How do I check my enrolment application status? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0534,I am facing an issue. How do I check my enrolment application status? Please provide a solution.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0101,I need assistance. Authentication is unavailable when I try to use the service. Please look into this issue.,Authentication,Medium,Authentication and Verification Division,Pending
+GRV-0227,The enrolment centre could not complete my request. I need assistance with this problem.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0449,Please help me. I need assistance correcting an incorrect name entry. Kindly check this request.,Data Correction,Low,Enrolment & Update Division,Pending
+GRV-0548,I need assistance. I need information about the Aadhaar update process. I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0572,I would like to report that Where can I find my nearest enrolment centre? I need assistance with this problem.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0172,"Hello, I am facing repeated authentication failures. Please provide a solution.",Authentication,High,Authentication and Verification Division,Pending
+GRV-0293,I would like to report that The enrolment centre could not complete my request. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0216,I need assistance. The enrolment centre is not accepting my application.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0062,I need support because My address update request is still pending. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0407,I am experiencing a problem because My demographic information contains an error. I need assistance with this problem.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0048,Please help me. My address update request is still pending. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0418,I need assistance. My demographic information contains an error. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0268,My enrolment appointment was cancelled. Please provide a solution.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0328,"Hello, I am unable to submit the online form because of an error. Kindly check this request.",Technical Issue,Medium,Technology Management Division,Pending
+GRV-0201,I am facing an issue. I am facing difficulties during the enrolment process. Kindly check this request.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0135,I need assistance. My identity verification is not working. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0028,I am experiencing a problem because The update centre is unable to process my request. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0525,I need assistance. What documents are required for an address update?,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0506,I am facing an issue. I want to know how to check my update status. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0490,Please help me. I noticed an error in my recorded date of birth.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0261,I need support because My new enrolment request has not been processed.,Enrolment,Medium,Enrolment & Update Division,Pending
+GRV-0379,I would like to report that The portal displays an internal server error. Please provide a solution.,Technical Issue,High,Technology Management Division,In Progress
+GRV-0289,I would like to report that The enrolment centre could not complete my request. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0419,Please help me. I noticed an error in my recorded date of birth. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0392,I need support because The service page is not opening. Please provide a solution.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0499,"Hello, There is a spelling mistake in my name.",Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0139,I am experiencing a problem because The verification process fails every time. Please provide a solution.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0472,"Hello, The address displayed in my record is incorrect.",Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0129,Please help me. I am facing repeated authentication failures. Please look into this issue.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0584,What documents are required for an address update? Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0521,I need assistance. Please provide information about Aadhaar services. Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0065,I am experiencing a problem because I cannot change my date of birth in my records.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0015,Please help me. I am unable to update my registered mobile number. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0493,"Hello, The address displayed in my record is incorrect. Please provide a solution.",Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0380,I am experiencing a problem because I am experiencing repeated technical problems on the portal. Kindly check this request.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0188,I am facing an issue. I am unable to complete biometric authentication. Please look into this issue.,Authentication,High,Authentication and Verification Division,In Progress
+GRV-0053,I need support because My mobile number update is not getting processed. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0252,I need assistance. I am facing difficulties during the enrolment process.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0456,"Hello, My gender information is displayed incorrectly. Please provide a solution.",Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0598,I need support because What documents are required for an address update? Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0270,I am experiencing a problem because The enrolment centre is not accepting my application.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0162,The verification process fails every time. Kindly help me resolve it.,Authentication,High,Authentication and Verification Division,Pending
+GRV-0477,"Hello, My name is incorrectly displayed in my records. Kindly check this request.",Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0106,Please help me. My identity verification is not working. I need assistance with this problem.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0390,Please help me. The website keeps showing a technical error. Please look into this issue.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0002,Please help me. I cannot change my date of birth in my records. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0559,I am experiencing a problem because I need information about the Aadhaar update process. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,In Progress
+GRV-0206,"Hello, My enrolment appointment was cancelled. Please provide a solution.",Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0035,I am facing an issue. My address update request is still pending. I need assistance with this problem.,Aadhaar Update,Medium,Enrolment & Update Division,Pending
+GRV-0509,I am facing an issue. I want to understand the authentication process. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0428,I need support because My demographic information contains an error. Please look into this issue.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0455,I would like to report that My name is incorrectly displayed in my records.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0367,I need support because The service page is not opening. I need assistance with this problem.,Technical Issue,Medium,Technology Management Division,In Progress
+GRV-0092,I would like to report that I am unable to update my registered mobile number. Please look into this issue.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0346,I am experiencing a problem because The portal displays an internal server error.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0242,My enrolment appointment was cancelled. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,In Progress
+GRV-0316,I would like to report that The online portal is responding very slowly.,Technical Issue,Low,Technology Management Division,In Progress
+GRV-0388,I would like to report that The application crashes whenever I open it. Kindly help me resolve it.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0167,I would like to report that I am facing repeated authentication failures. Please look into this issue.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0595,I am experiencing a problem because Where can I find my nearest enrolment centre? Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0485,I would like to report that My personal details are showing incorrect information. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0505,I want to understand the authentication process.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0563,I am experiencing a problem because How do I check my enrolment application status? Kindly help me resolve it.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0190,I need support because The OTP authentication process is not completing. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0476,I am experiencing a problem because The address displayed in my record is incorrect. Kindly help me resolve it.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0511,I need assistance. I want to know how to check my update status. Please look into this issue.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Resolved
+GRV-0059,"Hello, I have been waiting for my address correction. Please look into this issue.",Aadhaar Update,Low,Enrolment & Update Division,Pending
+GRV-0475,I need support because The address displayed in my record is incorrect.,Data Correction,Medium,Enrolment & Update Division,Resolved
+GRV-0561,How do I check my enrolment application status? Kindly check this request.,General Query,Low,Customer Relationship Management & Logistics and Channel Interface Division,Pending
+GRV-0314,Please help me. The online portal is responding very slowly. I need assistance with this problem.,Technical Issue,Low,Technology Management Division,In Progress
+GRV-0460,"Hello, There is a spelling mistake in my name. Kindly check this request.",Data Correction,Low,Enrolment & Update Division,In Progress
+GRV-0161,I need support because I am unable to complete biometric authentication.,Authentication,High,Authentication and Verification Division,Resolved
+GRV-0277,I need support because I cannot find an available enrolment appointment. Please provide a solution.,Enrolment,Low,Enrolment & Update Division,Pending
+GRV-0192,I would like to report that The OTP authentication process is not completing. Kindly check this request.,Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0386,Please help me. The online portal is responding very slowly. Kindly help me resolve it.,Technical Issue,Low,Technology Management Division,Pending
+GRV-0414,I am facing an issue. My date of birth is showing incorrect information. Please provide a solution.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0492,"Hello, I noticed an error in my recorded date of birth. Kindly check this request.",Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0344,I would like to report that The website keeps showing a technical error. Please look into this issue.,Technical Issue,Medium,Technology Management Division,Resolved
+GRV-0131,"Hello, Authentication is unavailable when I try to use the service. I need assistance with this problem.",Authentication,Medium,Authentication and Verification Division,In Progress
+GRV-0100,I would like to report that My address update request is still pending. Please provide a solution.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0088,I am facing an issue. I submitted an update request but it was rejected. Kindly help me resolve it.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0459,I need support because I noticed an error in my recorded date of birth. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,Pending
+GRV-0331,The application crashes whenever I open it. Kindly check this request.,Technical Issue,High,Technology Management Division,Resolved
+GRV-0215,Please help me. My new enrolment request has not been processed. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0467,I am experiencing a problem because My personal details are showing incorrect information. Kindly check this request.,Data Correction,Medium,Enrolment & Update Division,In Progress
+GRV-0122,I need assistance. My authentication request shows an error. Please provide a solution.,Authentication,Medium,Authentication and Verification Division,Resolved
+GRV-0021,Please help me. My mobile number update is not getting processed. Kindly check this request.,Aadhaar Update,Medium,Enrolment & Update Division,In Progress
+GRV-0072,I need assistance. My demographic update request is taking too long.,Aadhaar Update,Medium,Enrolment & Update Division,Resolved
+GRV-0271,I need support because The enrolment centre is not accepting my application. Please look into this issue.,Enrolment,Medium,Enrolment & Update Division,Resolved
+GRV-0436,I would like to report that I noticed an error in my recorded date of birth.,Data Correction,Medium,Enrolment & Update Division,In Progress

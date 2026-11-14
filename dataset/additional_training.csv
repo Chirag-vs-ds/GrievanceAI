@@ -1,0 +1,61 @@
+complaint_text,category
+Please replace the mobile number currently linked to my Aadhaar.,Aadhaar Update
+I moved to another city and want to change my residential address.,Aadhaar Update
+My contact number has changed and I need to update it.,Aadhaar Update
+The address update request has not appeared in my profile.,Aadhaar Update
+I want to modify the address associated with my existing Aadhaar.,Aadhaar Update
+Purana mobile number hata kar naya number link karna hai.,Aadhaar Update
+My new residential address needs to be added to my Aadhaar.,Aadhaar Update
+I need to replace my registered phone number.,Aadhaar Update
+The address on my Aadhaar is outdated after relocation.,Aadhaar Update
+Please help me submit a request for a mobile number update.,Aadhaar Update
+I have shifted my house and need to update my address details.,Aadhaar Update
+My latest contact details are not reflected in Aadhaar.,Aadhaar Update
+How do I change the phone number associated with my Aadhaar?,Aadhaar Update
+I want to update my current address in the existing record.,Aadhaar Update
+Address change karne ke baad bhi purana address aa raha hai.,Aadhaar Update
+I do not have an Aadhaar number and want to register for the first time.,Enrolment
+My first-time registration has not been completed at the centre.,Enrolment
+I need to apply for a new Aadhaar for my child.,Enrolment
+The centre did not accept my new registration application.,Enrolment
+I am trying to get enrolled but no registration slot is available.,Enrolment
+Mera pehli baar Aadhaar registration nahi ho pa raha hai.,Enrolment
+I visited the centre for new registration but the operator was unavailable.,Enrolment
+My child's first-time Aadhaar enrolment is still pending.,Enrolment
+I want to register for Aadhaar for the first time.,Enrolment
+The centre has not generated an enrolment acknowledgement.,Enrolment
+I need a new Aadhaar because I have never enrolled before.,Enrolment
+My registration process stopped before completion.,Enrolment
+There is no available appointment for new Aadhaar registration.,Enrolment
+The enrolment centre asked me to return without registering me.,Enrolment
+I submitted my details for first-time enrolment but it remains incomplete.,Enrolment
+Please explain the steps involved in changing an Aadhaar address.,General Query
+What documents are needed to register for Aadhaar?,General Query
+I want to know the charges for different Aadhaar services.,General Query
+Where can I get official information about Aadhaar updates?,General Query
+Can you explain how the appointment system works?,General Query
+Aadhaar update ke liye kaun se documents chahiye?,General Query
+What are the rules for updating personal information?,General Query
+I need guidance on how to download my Aadhaar document.,General Query
+Is there an official helpline for Aadhaar related questions?,General Query
+How many days does an update usually take according to the guidelines?,General Query
+I want to understand the first-time registration procedure.,General Query
+Which documents can be used as proof of identity?,General Query
+Can you tell me the location of the nearest service centre?,General Query
+What are the eligibility requirements for Aadhaar enrolment?,General Query
+Please share the procedure for booking a centre appointment.,General Query
+The fingerprint reader is unable to recognize my finger.,Authentication
+OTP verification fails even when I enter the correct code.,Authentication
+My face scan is repeatedly rejected during identity verification.,Authentication
+Biometric verification nahi ho raha hai.,Authentication
+I cannot complete identity verification through OTP.,Authentication
+My surname contains a spelling error in the Aadhaar record.,Data Correction
+The recorded birth date does not match my correct date of birth.,Data Correction
+My name was typed incorrectly during the original registration.,Data Correction
+Naam ki spelling galat hai mere record mein.,Data Correction
+The gender information in my existing record is incorrect.,Data Correction
+The online form freezes when I click the continue button.,Technical Issue
+The service portal is showing a connection error.,Technical Issue
+I cannot download the document because the website crashes.,Technical Issue
+Website open hi nahi ho rahi hai.,Technical Issue
+The application returns an error after document submission.,Technical Issue

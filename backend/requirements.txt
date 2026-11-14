@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+joblib
+pandas
+numpy
+sqlalchemy
+pymysql
+python-dotenv
+argon2-cffi
+PyJWT>=2.10,<3
